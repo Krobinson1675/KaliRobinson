@@ -8,3 +8,32 @@ font-size:48px;
 font:Helvetica; 
 color: chocolate;
 }
+
+.navbar{
+font:24px Helvetica;
+color: red; 
+}
+
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  width:60px;
+  overflow:hidden;
+}
+
+li{
+float: left;
+}
+
+li a{
+  display:block;
+  padding: 8px 12px;
+  color: red;
+  text-align:center;
+  text-decoration:none;
+}
+
+li a: hover{
+  background-color: gold;
+}
