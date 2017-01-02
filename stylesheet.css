@@ -10,7 +10,7 @@ color: chocolate;
 }
 
 .navbar{
-font:24px Helvetica;
+font:14px Helvetica;
 color: red; 
 }
 
@@ -18,8 +18,10 @@ ul{
   list-style-type:none;
   margin:0;
   padding:0;
-  width:60px;
+  width:100%;
   overflow:hidden;
+  position: fixed;
+  top: 0;
 }
 
 li{
