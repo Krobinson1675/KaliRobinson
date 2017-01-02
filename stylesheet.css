@@ -12,6 +12,7 @@ color: chocolate;
 .navbar{
 font:24px Helvetica;
 color: red; 
+width: 100%;
 }
 
 ul{
@@ -25,17 +26,10 @@ ul{
 }
 
 li{
+display:block;
+padding:14px 16px;
 float: left;
-}
-
-li a{
-  display:block;
-  padding: 20px 24px;
-  color: red;
-  text-align:center;
-  text-decoration:none;
-}
-
-li a: hover{
-  background-color: gold;
+width:100%;
+text-align: center;
+text-decoration:none;
 }
