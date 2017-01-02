@@ -10,7 +10,7 @@ color: chocolate;
 }
 
 .navbar{
-font:14px Helvetica;
+font:24px Helvetica;
 color: red; 
 }
 
@@ -30,7 +30,7 @@ float: left;
 
 li a{
   display:block;
-  padding: 14px 16px;
+  padding: 20px 24px;
   color: red;
   text-align:center;
   text-decoration:none;
