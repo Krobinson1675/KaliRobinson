@@ -11,7 +11,7 @@ color: chocolate;
 
 .navbar{
 font:24px Helvetica;
-color: red; 
+color: chocolate; 
 width: 100%;
 }
 
@@ -31,4 +31,10 @@ padding:14px 16px;
 width:100%;
 text-align:center;
 text-decoration:none;
+}
+
+.resume{
+  background-image: url:('https://cdn.pixabay.com/photo/2016/11/29/04/19/beach-1867285_960_720.jpg');
+  background-size:cover;
+  background-position:center top;
 }
