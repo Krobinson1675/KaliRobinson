@@ -1,0 +1,41 @@
+p.p1 {
+font: 12.0px Helvetica;
+}
+
+.header{
+  font-size: 48px;
+  Font: Helvetical
+  background-color: gold;
+  color:chocolate;
+}
+
+.navbar{
+font:24px Helvetica;
+color: chocolate; 
+width: 100%;
+}
+
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  width:100%;
+  position: fixed;
+  top: 0;
+}
+
+li{
+display:inline;
+padding:14px 16px;
+width:100%;
+text-align:center;
+text-decoration:none;
+}
+
+.resume{
+}
+.about_me{
+}
+
+.contact{
+}
