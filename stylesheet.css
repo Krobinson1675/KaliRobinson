@@ -1,15 +1,10 @@
 p.p1 {
-margin: 0.0px 0.0px 0.0px 0.0px; 
 font: 12.0px Helvetica;
 }
 
-h1{
-font-size:48px; 
-font:Helvetica; 
-color: chocolate;
-}
-
 .header{
+  font-size: 48px;
+  Font: Helvetical
   background-color: gold;
   color:chocolate;
 }
@@ -25,9 +20,6 @@ ul{
   margin:0;
   padding:0;
   width:100%;
-  display: flex;
-  justify-content: space-around;
-  overflow:hidden;
   position: fixed;
   top: 0;
 }
@@ -41,8 +33,6 @@ text-decoration:none;
 }
 
 .resume{
-  background-size:cover;
-  background-position:center top;
 }
 .about_me{
 }
